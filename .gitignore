@@ -1,0 +1,5 @@
+dataset/
+*.DS_Store/
+build_report.py
+rapor.docx
+rapor.pages
