@@ -6,7 +6,7 @@ under an identical protocol (stratified 5-fold cross-validation, evaluated on a
 held-out test set) so the comparison is fair.
 
 
-![Model comparison](assets/model_comparison.png)
+![Model comparison](assets/fig_comparison.png)
 
 ---
 
